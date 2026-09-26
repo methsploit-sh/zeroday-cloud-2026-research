@@ -1,0 +1,30 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 methsploit-sh
+
+This work — the security-research documentation in this repository — is licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+  - Share  — copy and redistribute the material in any medium or format
+  - Adapt  — remix, transform, and build upon the material for any purpose,
+             even commercially
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to "methsploit-sh", provide a
+    link to this repository and to the license, and indicate if changes were made.
+    You may do so in any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by/4.0/
+
+DISCLAIMER
+This repository documents defensive security research conducted against a
+purpose-built competition target in an authorized environment. It contains
+analysis and negative findings only — no working exploit for any production
+system. The material is provided "as is", without warranty of any kind. The
+author accepts no liability for any use of this material.
