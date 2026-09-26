@@ -1,0 +1,26 @@
+# Raw HTTP captures / probe output (never commit)
+*.body
+*.headers
+*.rawbody
+*.request
+*.status
+*.err
+*.log
+*.json
+*.pyc
+__pycache__/
+# Tooling / harness / config (excluded from public release)
+tools/
+*.sh
+.codex-home/
+*token*
+*secret*
+*.key
+*credentials*
+# Extra defense-in-depth: never commit AI-orchestration / proxy / configs
+*evren*
+*proxy*
+*.toml
+*.py
+*.config.*
+*cookies*
